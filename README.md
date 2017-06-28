@@ -11,3 +11,6 @@ This app simply made during my boredom days 4 years ago and recently modify the 
 If you are interested you can Download the Pre Release of this Application <a href="https://github.com/Akihisa17/Ghost-Clock/releases"> Here. </a>
 
 Might be simple but who knows..it might evolve. lol Anyway free to modify and do whatever you want~
+
+#Software 
+Visual Studio and Bunifu.Net UI Framework.
