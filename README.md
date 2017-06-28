@@ -1,4 +1,4 @@
-
+=
 
 # Ghost-Clock
 Ghost Clock is a simple DateTime application with modern User Interface build for Windows. 
@@ -16,4 +16,4 @@ Might be simple but who knows..it might evolve. lol Anyway free to modify and do
 # Software
 Visual Studio and Bunifu.Net UI Framework.
 
-Under the MIT License.
+-Under MIT License.
