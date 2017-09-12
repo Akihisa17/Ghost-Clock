@@ -5,7 +5,7 @@ DateTime application with a modern User Interface build for Windows Desktop.
 
 ## Appearance
 
-This app simply made during my boredom days 4 years ago and recently modify the user interface with the help of Bunifu.Net Framework.
+This app simply made during my boredom days 4 years ago and recently modify the user interface.
 
 <a href="http://imgur.com/IE5f7rU"><img src="http://i.imgur.com/IE5f7rU.png" title="source: imgur.com" /></a>
 
