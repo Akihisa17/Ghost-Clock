@@ -24,7 +24,7 @@ Visual Studio and Bunifu.Net UI Framework.
 
 ## Notice
 You need Bunifu.Net UI Framework in order to continue or work this project. 
-* <a href="https://bunifuframewark.com"> Bunifu.Net UI Framework </a>
+* <a href="https://bunifuframework.com"> Bunifu.Net UI Framework </a>
 
 
 ## License
