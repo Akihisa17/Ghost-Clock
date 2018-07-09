@@ -70,19 +70,19 @@ namespace Ghost_Clock
                 //break;
 
                 case 1:
-                    label1.Text = "Ghost Clock was preparing...10%";
+                    label1.Text = "Ghost Clock is preparing...10%";
                     break;
 
                 case 2:
-                    label1.Text = "Ghost Clock was preparing...40% ";
+                    label1.Text = "Ghost Clock is preparing...40% ";
                     break;
 
                 case 3:
-                    label1.Text = "Ghost Clock was preparing...75%";
+                    label1.Text = "Ghost Clock is preparing...75%";
                     break;
 
                 case 4:
-                    label1.Text = "Ghost Clock was preparing...100%";
+                    label1.Text = "Ghost Clock is preparing...100%";
                     break;
 
                 case 7:
