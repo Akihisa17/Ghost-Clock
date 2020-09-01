@@ -23,7 +23,3 @@ Visual Studio and Bunifu.Net UI Framework.
 ## Notice
 You need Bunifu.Net UI Framework in order to continue or work this project. 
 * <a href="https://bunifuframework.com"> Bunifu.Net UI Framework </a>
-
-
-## License
-Under <a href="https://github.com/seizue/Sticky-Ghost/blob/master/LICENSE"> MIT License.</a>
