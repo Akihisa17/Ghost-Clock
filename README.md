@@ -8,7 +8,7 @@ DateTime application with a modern User Interface build for Windows Desktop.
 This app simply made during my boredom days and recently modify the user interface.
 The appearance is inspired by one of video Tutorials in Bunifu.Net UI Framework. 
 
-<a href="http://imgur.com/IE5f7rU"><img src="http://i.imgur.com/IE5f7rU.png" title="source: imgur.com" /></a>
+![sticky_ghost](https://user-images.githubusercontent.com/25120376/91973410-cebdd200-ed4e-11ea-852c-0dfd104634b7.png)
 
 ## Features
 * Monitor Current Date and Time
